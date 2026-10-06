@@ -1,2 +1,2 @@
 # Game-Jam
-Dzień Programisty,
+Dzień Programisty
